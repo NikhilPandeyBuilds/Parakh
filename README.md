@@ -494,7 +494,7 @@ PARAKH/
 
 The exact implementation structure may evolve during development.
 
-🚀 Getting Started
+```🚀 Getting Started
 Prerequisites
 
 Depending on the current implementation, you may need:
