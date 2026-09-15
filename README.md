@@ -24,7 +24,7 @@ PARAKH addresses this problem by providing a structured workflow for analysing p
 
 ### Core idea
 
-```text
+text
 Product / Package
        ↓
 Data Extraction
